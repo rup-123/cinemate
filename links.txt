@@ -1,0 +1,14 @@
+2526156e990ea7e0c8b25c05962f28f1
+
+
+search-movie list:
+https://api.themoviedb.org/3/search/movie?api_key=2526156e990ea7e0c8b25c05962f28f1&language=en-US&query=avatar
+
+latest-tv shows:
+https://api.themoviedb.org/3/tv/now_playing?api_key=2526156e990ea7e0c8b25c05962f28f1
+
+search-tv show:
+https://api.themoviedb.org/3/search/tv?api_key=2526156e990ea7e0c8b25c05962f28f1&language=en-US&query=euphoria
+
+Now Playing movies:
+https://api.themoviedb.org/3/movie/now_playing?api_key=2526156e990ea7e0c8b25c05962f28f1
