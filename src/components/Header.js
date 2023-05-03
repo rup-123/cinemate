@@ -1,7 +1,8 @@
 import {Link,NavLink} from "react-router-dom";
 import Logo from "../assets/logo.png";
-import { useState } from "react";
 import { useEffect } from "react";
+import { useState } from "react";
+
 import { useNavigate } from "react-router-dom";
 
 export const Header = ({ onMediaTypeChange }) => {
